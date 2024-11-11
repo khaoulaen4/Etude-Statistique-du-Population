@@ -1,1 +1,1 @@
-# khaoulaen4
+# Etude-Statistique-du-Population- Réalisation d'une analyse détaillée de l'évolution de la population en milliers sur plusieurs trimestres de 2021 à 2023. Ce projet visait à comprendre les tendances, la saisonnalité et à effectuer des prévisions précises.
